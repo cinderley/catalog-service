@@ -1,1 +1,12 @@
-/home/ashley.clark/src/catalog-service/Chapter03/src/main/java/com/polarbookshop/catalogservice/CatalogServiceApplication.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/web/BookController.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/web/BookControllerAdvice.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/domain/BookService.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/CatalogServiceApplication.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/domain/BookRepository.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/HomeController.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/domain/Book.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/persistence/InMemoryBookRepository.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/config/PolarProperties.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/domain/BookAlreadyExistsException.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/demo/BookDataLoader.java
+/home/ashley.clark/src/catalog-service/Chapter04/src/main/java/com/polarbookshop/catalogservice/domain/BookNotFoundException.java
